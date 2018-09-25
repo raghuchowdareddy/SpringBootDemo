@@ -1,7 +1,9 @@
 # SpringBootDemo
 This just a simple demo with rest controller + spring JPA
 
-Step 1 : clone the project in your local machine
-Step 2 : Build the project using maven command " mvn clean install"
-Step 3 : Start HSQL DB in your local 
-Step 4 : run the DemoApplication.java
+- Clone the project in your local machine
+- Build the project using maven command " mvn clean install"
+- Start HSQL DB in your local 
+      > main class to start the HSQL server in local is (org.hsqldb.server.Server)
+- run the DemoApplication.java
+- check the status by clicking http://localhost:8080/demo/actuator/health
