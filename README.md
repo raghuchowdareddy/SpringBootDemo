@@ -1,5 +1,5 @@
 # SpringBootDemo
-This just a simple demo with rest controller + spring JPA
+This just a simple demo with rest controller + spring JPA + HSQLDB server
 
 - Clone the project in your local machine
 - Build the project using maven command " mvn clean install"
